@@ -14,4 +14,6 @@ git 을 오랜만에 사용하는데 아래와 같은 오류 메시지가 발생
 
 만약 위 구문을 실행했음에도 해결이 되지 않을 시.
 > global 영역 설정이 문제를 일으킬 수 있으니 'git config --global --unset credential.helper' 를 실행한다.
+
+
 출처 : https://stackoverflow.com/questions/47860772/gitlab-remote-http-basic-access-denied-and-fatal-authentication
